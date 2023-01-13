@@ -4,7 +4,7 @@ Hi 👋 My name is Ankit Thakur
 Senior Software Engineer in Test
 --------------------------------
 
-I have more than 10 years of experience in the field of software testing and automation, I have a deep understanding of the software development process and the importance of effective testing. My expertise in tools such as Selenium, Cucumber, and Java allows me to develop robust test frameworks that help identify and mitigate potential issues before they reach production. I am well-versed in Behavior Driven Development (BDD) methodology, Page Object Model (POM) design pattern, TestNG, JUnit test frameworks and integrating them with CI/CD pipeline tools like Jenkins.
+I'm a test automation expert with have more than 10 years of experience in the field of software testing and automation, I have a deep understanding of the software development process and the importance of effective testing. My expertise in tools such as Selenium, Cucumber, and Java allows me to develop robust test frameworks that help identify and mitigate potential issues before they reach production. I am well-versed in Behavior Driven Development (BDD) methodology, Page Object Model (POM) design pattern, TestNG, JUnit test frameworks and integrating them with CI/CD pipeline tools like Jenkins.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [ankit.thakur011@gmail.com](mailto:ankit.thakur011@gmail.com)
